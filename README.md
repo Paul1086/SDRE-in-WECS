@@ -13,4 +13,5 @@ The conversion efficiency of the wind turbine in partial load operation can be m
 ## Refernce:
 
 This work has been published in 51st IEEE North American Power Symposium (NAPS), KS, USA
+
 https://ieeexplore-ieee-org.libpdb.d.umn.edu:2443/document/9000319
