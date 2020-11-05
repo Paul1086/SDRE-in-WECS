@@ -1,6 +1,6 @@
 # Advanced Controls for Maximizing Wind Turbine Power Coefficient (MATLAB/Simulink)
 
-Please read the following paper for more theoretical explanation
+Please read the following paper for more theoretical explanation:
 
 https://ieeexplore-ieee-org.libpdb.d.umn.edu:2443/document/9000319
 
